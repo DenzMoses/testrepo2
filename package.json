@@ -1,0 +1,12 @@
+// File: package.json
+
+{
+  "name": "repo1",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
